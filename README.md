@@ -1,2 +1,9 @@
-# DSM
-Diagnostic Statistical Media
+-------
+| DSM |
+-------
+
+'Diagnostic Statistical Media' 
+
+
+# personality disorder
+https://en.wikipedia.org/wiki/Personality_disorder
